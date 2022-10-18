@@ -31,6 +31,7 @@ Et les marques alors ?
 🖥 Esn 100% locale,  à Lille depuis 2014. Nous accompagnons les membres de l'équipe par du mentoring et de la formation afin de les faire progesser dans leurs carrieres.  Nous avons à coeur de favoriser les échanges, la cohésion d'équipe en visant l'apport de valeur à nos clients.
 
 🔗 [https://symbol-it.fr](https://symbol-it.fr/)
+
  ————————
 
 ❤️ @Hexagone-It
@@ -42,6 +43,7 @@ Et les marques alors ?
 🌍 ESN 100% remote. Toujours en CDI, les membres de l'équipe sont partout en france pour des missions en remote ou proche de chez eux. Notre proposition : 3 packages simples de rémunération, d'avantages, d'extra liés au remote et une mission à la hauteurs des ambitions techniques et fonctionnelles de chaque collaborateur. 
 
 🔗 [https://hexagone-it.fr](https://hexagone-it.fr/)
+
  ————————
 
 🤍 Bee-Up
